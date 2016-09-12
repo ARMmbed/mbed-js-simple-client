@@ -1,0 +1,24 @@
+{
+  "name": "mbed-js-simple-client",
+  "version": "0.0.1",
+  "description": "Simple wrapper for mbed Client on JerryScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARMmbed/mbed-js-simple-client.git"
+  },
+  "keywords": [
+    "mbed",
+    "simple",
+    "client"
+  ],
+  "author": "Stephen Kyle <Stephen.Kyle@arm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ARMmbed/mbed-js-simple-client/issues"
+  },
+  "homepage": "https://github.com/ARMmbed/mbed-js-simple-client#readme"
+}

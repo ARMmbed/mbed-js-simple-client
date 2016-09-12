@@ -1,0 +1,9 @@
+{
+	"source": [
+		"."
+	],
+	"includes": [
+		"mbed-js-simple-client/lib_simple_client.h"
+	],
+	"name": "simple_client"
+}
